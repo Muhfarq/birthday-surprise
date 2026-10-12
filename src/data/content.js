@@ -1,14 +1,14 @@
 const content = {
-  recipientName: "Sayang", // ganti dengan nama pasanganmu kalau mau dipakai di teks
+  recipientName: "Sayang", 
   coverHeadline: "Happy Birthday!",
   coverSubtitle:
-    "Ada kejutan kecil yang dibuat khusus untuk bikin harimu makin manis.",
+    "Ada sedikit surprise nih buat kamu dari bebek ini.",
   candleBlownTitle: "Yeay! ✨",
   candleBlownSubtitle:
-    "Semoga semua harapan baikmu jadi nyata. Sekarang saatnya kado...",
+    "Semoga semua harapan yang kamu sebutkan bisa terwujud dan jadi kenyataan. Sekarang waktunya buka kado...",
   giftOfferQuestion: "Mau terima hadiah? 🎁",
   giftOfferHint:
-    "Bebek kecil ini sudah jauh-jauh membawakannya khusus buat kamu.",
+    "Bebek kecil ini udah jauh-jauh bawain kado khusus buat kamu.",
   gifts: [
     {
       id: "note",

@@ -8,7 +8,7 @@ export default function CoverScreen({ onBlow }) {
   return (
     <div className="flex flex-col items-center gap-6 text-center">
       <span className="rounded-full bg-[#FCE3C0] px-4 py-1 text-xs font-semibold tracking-wide text-[#B5652B]">
-        Psst... hari ini spesial
+        Psst... Ada yang Ulang Tahun nihhh...
       </span>
 
       <SplitText
